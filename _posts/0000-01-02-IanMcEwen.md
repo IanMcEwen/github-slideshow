@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+### Big is not everything, but big is **BIG**
 Use the left arrow to go back!
